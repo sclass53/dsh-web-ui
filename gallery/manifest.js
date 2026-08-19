@@ -67,6 +67,7 @@ window.SKIN_MANIFEST = {
       "tagline": "芙宁娜背景 · 淡蓝主题 · 半透明面板",
       "description": "基于原神角色芙宁娜的dsh-web-ui主题",
       "tags": [
+        "whale",
         "blue",
         "Furina",
         "translucent",
@@ -94,12 +95,12 @@ window.SKIN_MANIFEST = {
         "backgroundMedia": {
           "light": {
             "type": "image",
-            "src": "assets/furina-art.jpg",
+            "src": "assets/whale-art.jpg",
             "scrim": "linear-gradient(rgba(246, 248, 253, 0.08) 0%, rgba(240, 243, 251, 0.08) 55%, rgba(235, 239, 249, 0.08) 100%)"
           },
           "dark": {
             "type": "image",
-            "src": "assets/furina-art.jpg",
+            "src": "assets/whale-art.jpg",
             "scrim": "linear-gradient(rgba(10, 14, 28, 0.1) 0%, rgba(13, 18, 34, 0.1) 60%, rgba(16, 22, 42, 0.1) 100%)"
           }
         }
